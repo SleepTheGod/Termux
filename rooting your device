@@ -1,0 +1,17 @@
+For questions please go to Twitter.com/ClumsyLulz or Youtube.com/c/Stripped
+
+apt-get install update
+
+apt-get install upgrade
+
+apt-get install tsu
+
+apt-get install git
+
+git clone https://gitlab.com/st42/termux-sudo
+
+cd termux-sudo
+
+cat sudo > /data/data/com.termux/files/usr/bin/sudo
+
+chmod 700 /data/data/com.termux/files/usr/bin/sudo
